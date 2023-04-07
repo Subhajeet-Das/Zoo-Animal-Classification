@@ -6,4 +6,7 @@
   <img src = "https://user-images.githubusercontent.com/91028101/229469717-183d5836-5364-4936-9e09-43ae719945be.png">
 </p>
 <br>
-📌Here is the link for the Dataset - https://www.kaggle.com/datasets/uciml/zoo-animal-classification
+
+🔗Here is the link for the Kaggle Notebook - <a href="https://www.kaggle.com/code/subhajeetdas/zoo-animal-classification#SVM">Click Here👈🏼</a>
+
+📌Here is the link for the Dataset - <a href="https://www.kaggle.com/datasets/uciml/zoo-animal-classification">Click Here 👈🏼</a>
